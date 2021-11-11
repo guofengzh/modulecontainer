@@ -1,0 +1,3 @@
+[submodule "moduleplugin"]
+	path = moduleplugin
+	url = ../moduleplugin.git
